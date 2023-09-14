@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/cLJ3Fqw/young-blogger-recording-herself-window.jpg",
+        "title": "Lorem Ipsum: The Art of Filling Text",
+        "author": "John Doe",
+        "author-img": "https://example.com/author1.jpg",
+        "posted-date": "2023-09-10",
+        "reading-time": 12,
+        "hashtags": ["Lorem", "Ipsum", "Writing"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/vkKbTRQ/8975463.jpg",
+        "title": "Cooking Adventures: From Kitchen to Plate",
+        "author": "Jane Smith",
+        "author-img": "https://example.com/author2.jpg",
+        "posted-date": "2023-09-09",
+        "reading-time": 8,
+        "hashtags": ["Cooking", "Food", "Recipes"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/PM35kKV/8828328.jpg",
+        "title": "Tech Trends: A Glimpse into the Future",
+        "author": "David Johnson",
+        "author-img": "https://example.com/author3.jpg",
+        "posted-date": "2023-09-08",
+        "reading-time": 15,
+        "hashtags": ["Technology", "Innovation", "Future"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/bL57h2P/6518947.jpg",
+        "title": "Traveling the World: Adventures Await",
+        "author": "Emily Williams",
+        "author-img": "https://example.com/author4.jpg",
+        "posted-date": "2023-09-07",
+        "reading-time": 10,
+        "hashtags": ["Travel", "Adventure", "Explore"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/MBpmWD6/7661290.jpg",
+        "title": "Health and Wellness: Your Guide to a Better You",
+        "author": "Michael Brown",
+        "author-img": "https://example.com/author5.jpg",
+        "posted-date": "2023-09-06",
+        "reading-time": 14,
+        "hashtags": ["Health", "Wellness", "SelfCare"]
+    }
+]
